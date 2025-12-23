@@ -1,0 +1,2 @@
+# sqlzoo
+practice on sqlzoo
